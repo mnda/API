@@ -46,8 +46,8 @@ public class TestData {
                         "\"client_id\":\"" + API_KEY + "\"," +
                         "\"currency\":\"USD\"," +
                         "\"locale\":\"en-US\"," +
-                        "\"grant_type\":\"wrongpassword\"," +
-                        "\"username\":\"airbnbdev@gmail.com\"," +
+                        "\"grant_type\":\"password\"," +
+                        "\"username\":\"wrong@gmail.com\"," +
                         "\"password\":\"asdf1234\"" +
                         "}";
 
@@ -57,8 +57,8 @@ public class TestData {
                         "\"currency\":\"USD\"," +
                         "\"locale\":\"en-US\"," +
                         "\"grant_type\":\"password\"," +
-                        "\"username\":\"wrong@gmail.com\"," +
-                        "\"password\":\"true\"" +
+                        "\"username\":\"airbnbde@gmail.com\"," +
+                        "\"password\":\"wrong\"" +
                 "}";
 
     }
