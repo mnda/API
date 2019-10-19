@@ -1,9 +1,2 @@
 # API
 CaseStudy
-iPhone 11 (13.1) [561204DA-EBE6-4ADF-BC5C-C212A962002C] (Simulator)
-iPhone 11 Pro (13.1) [15C0C732-D33D-4326-8138-3467BB329449] (Simulator)
-iPhone 11 Pro (13.1) + Apple Watch Series 5 - 40mm (6.0) [14D22A95-4291-4C53-96D4-7CA073977574] (Simulator)
-iPhone 11 Pro Max (13.1) [BEDFDF0A-6ADD-4B32-80EB-8848159E62B8] (Simulator)
-iPhone 11 Pro Max (13.1) + Apple Watch Series 5 - 44mm (6.0) [71E78C04-EBEE-4E80-A7B2-B1B74619D0DE] (Simulator)
-iPhone 8 (13.1) [DB2488FE-F94B-4692-81A5-69133883101D] (Simulator)
-iPhone 8 Plus (13.1) [EBF7B1E8-1D2E-4B7B-A369-42787F943947] (Simulator)
